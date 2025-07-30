@@ -21,7 +21,6 @@ Me gusta crear proyectos que sean útiles o simplemente divertidos para la gente
 
 ### En entornos profesionales:
 - 🟢 **Node.js**
-- 💠 **TypeScript**
 
 ---
 
