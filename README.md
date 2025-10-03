@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy xibhuxan
 
-🛠 Ingeniero maker y desarrollador de soluciones de software y electrónica.  
+🛠 Ingeniero informático maker y desarrollador de soluciones de software y electrónica.  
 Me gusta crear proyectos que sean útiles o simplemente divertidos para la gente.
 
 ---
