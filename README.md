@@ -43,6 +43,7 @@
 - **Seguridad**: Autenticación JWT, roles y permisos
 - **Documentación API**: Swagger automático
 
+> 💼 *Proyecto sin terminar de Trabajo Final de Grado que demuestra competencias en desarrollo full-stack, IoT y sistemas distribuidos.*
 
 [👉 Ver repositorio](https://github.com/xibhuxan/TFG-NitroNet)
 
@@ -55,8 +56,6 @@
 - **Tecnologías**: Python, PySide6, PyPDF2
 - **Características**: Búsqueda multi-carpeta, exportación de resultados
 - **Plataformas**: Windows, Linux, macOS
-
-> ⚡ *Ideal para auditorías, recuperación de documentos o localización de archivos por contenido.*
 
 [👉 Ver repositorio](https://github.com/xibhuxan/xibhusquedaPDF)
 
