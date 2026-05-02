@@ -1,84 +1,140 @@
 # ¡Hola! 👋 Soy xibhuxan
 
-🧠 Software Engineer | Full-Stack & DevOps  
-🛠 Construyo soluciones de software, automatización y proyectos de electrónica que funcionan en el mundo real.
+🧠 **Software Engineer | Full-Stack & IoT Specialist**  
+🛠 Construyo soluciones de software, sistemas IoT y automatizaciones que funcionan en producción.
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Stack Tecnológico
 
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-</div>
-
-<div align="center">
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
-
----
-
-🛠 Ingeniero informático maker y desarrollador de soluciones de software y electrónica.  
-Me gusta crear proyectos que sean útiles o simplemente divertidos para la gente… y que además escalen bien en producción.
 
 ---
 
 ## ⚙️ Qué hago por aquí
 
-- 🤖 Desarrollo **Nekita**, un bot de Telegram con funciones curiosas y entretenidas.
-- 📚 Escribo **guías y tutoriales** sobre programación, sistemas y herramientas.
-- 🔌 Trabajo con **Arduino**, creando proyectos con sensores, actuadores y librerías propias.
-- ⚙️ Desarrollo **servicios backend y automatizaciones**, aplicando buenas prácticas y arquitectura limpia.
+- 🤖 Desarrollo **sistemas IoT full-stack** (backend NestJS + hardware Arduino/ESP32)
+- 🐍 Crio **aplicaciones Python** con interfaces GUI y automatizaciones empresariales
+- 🌐 Creo **APIs RESTful**, servicios backend y microservicios escalables
+- 📚 Escribo **tutoriales y guías** sobre tecnología y desarrollo
+- 🔧 Desarrollo **firmware** para sistemas embebidos con Arduino y C++
 
 ---
 
-## 🧪 Tecnologías que uso
+## 🌟 Proyectos Destacados
 
-### En mis proyectos personales me gustan las tecnologías:
-- 🚀 **NodeJS / NestJS**
-- 🐍 **Python**
-- ☕ **Java**
-- ⚛️ **React**
-- ⚙️ **C++ (Arduino & sistemas embebidos)**
+### 🚗 TFG-NitroNet — Sistema IoT para vehículos en tiempo real
 
-### También trabajo con:
-- 🐧 **Linux & VPS**
-- 🔄 **CI/CD (GitHub Actions)**
-- 🐳 **Docker**
-- 🧠 **Automatización y herramientas con IA**
+**Sistema completo full-stack para monitorización de vehículos nitro**
+
+- **Stack**: NestJS + React + TypeScript + MariaDB
+- **IoT**: Arduino (sensores) + ESP32 (cámara + WiFi)
+- **Seguridad**: Autenticación JWT, roles y permisos
+- **Documentación API**: Swagger automático
+
+
+[👉 Ver repositorio](https://github.com/xibhuxan/TFG-NitroNet)
 
 ---
 
-## 🌟 Proyectos destacados
+### 📁 XibhusquedaPDF — Buscador de PDFs por contenido
+
+**Aplicación GUI en Python para localizar documentos PDF por palabras clave**
+
+- **Tecnologías**: Python, PySide6, PyPDF2
+- **Características**: Búsqueda multi-carpeta, exportación de resultados
+- **Plataformas**: Windows, Linux, macOS
+
+> ⚡ *Ideal para auditorías, recuperación de documentos o localización de archivos por contenido.*
+
+[👉 Ver repositorio](https://github.com/xibhuxan/xibhusquedaPDF)
+
+---
 
 ### 🐱 Nekita — Bot de Telegram
 
-Una recreación libre de un bot privado, actualmente en desarrollo.  
-📌 Próximamente recibirá una gran actualización con nuevas funciones y mejoras de arquitectura.
+**Bot con funciones de entretenimiento y gestión de grupos**
+
+- **Tecnologías**: Python, Telethon
+- **Funcionalidades**: Gatos/perros aleatorios, sistema de puntos, saludos personalizados
+- **Comunidad**: Grupo de soporte activo
+
+[👉 Ver repositorio](https://github.com/xibhuxan/Nekita)
+
+---
+
+### 🛢️ Gasolineras España — Web App de precios de combustibles
+
+**Aplicación web para consultar precios de gasolineras en toda España**
+
+- **Tecnologías**: React, geolocalización, API oficial Minetur
+- **Funcionalidades**: Buscador, geolocalización, precios en tiempo real
+
+[👉 Ver repositorio](https://github.com/xibhuxan/gasolineras)
 
 ---
 
 ### 🔌 Arduino Projects & Libraries
 
-Colección estructurada de proyectos, ejemplos y librerías propias para sistemas embebidos.  
-Incluye desde casos básicos hasta implementaciones más avanzadas con sensores, actuadores y control de dispositivos.
+**Colección de proyectos y librerías para sistemas embebidos**
 
-📦 Librerías destacadas:
-- Gestión de inputs sin rebotes (debounce)
-- Control de tiempos y ejecución no bloqueante
-- Interfaces para pantallas y módulos hardware
+- 150+ proyectos de electrónica (sensores, actuadores, control)
+- Librerías propias: debounce, tiempos no bloqueantes, interfaces hardware
+- Enfoque en código reutilizable y documentación clara
 
-📚 Enfoque en código reutilizable, documentación clara y aprendizaje progresivo.
+[👉 Ver repositorio](https://github.com/xibhuxan/Arduino)
 
 ---
 
-Gracias por visitar mi perfil 🙌  
-💬 Sugerencias y peticiones son siempre bienvenidas, puedes contactarme por cualquier medio.
+## 💼 ¿Qué puedo aportar a tu equipo?
+
+| Área | Aportación |
+|------|------------|
+| **Backend** | APIs RESTful escalables, NestJS, arquitecturas limpias |
+| **Frontend** | React, TypeScript, interfaces responsivas |
+| **IoT/Hardware** | Integración de sensores, comunicación UART, MQTT |
+| **Python** | Automatización, scripts, GUI con PySide6 |
+| **DevOps** | Docker, CI/CD (GitHub Actions), Linux/VPS |
+
+---
+
+## 📜 Proyectos Completos
+
+Todos mis repositorios principales:
+
+- [🚗 TFG-NitroNet](https://github.com/xibhuxan/TFG-NitroNet) | IoT Full-Stack
+- [📁 XibhusquedaPDF](https://github.com/xibhuxan/xibhusquedaPDF) | Python GUI
+- [🐱 Nekita](https://github.com/xibhuxan/Nekita) | Telegram Bot
+- [🛢️ Gasolineras](https://github.com/xibhuxan/gasolineras) | React Web App
+- [🔌 Arduino](https://github.com/xibhuxan/Arduino) | Proyectos & Librerías
+- [📚 Tutoriales](https://github.com/xibhuxan/Tutoriales) | Guías y artículos
+
+---
+
+## 📞 Contacto y Redes
+
+- **GitHub**: [@xibhuxan](https://github.com/xibhuxan)
+- **Telegram**: [@NekoMegaBotSoporte](https://t.me/NekoMegaBotSoporte)
+
+💬 **Sugerencias y peticiones**: ¡Siempre bienvenidas! Puedes contactarme por cualquier medio o abriendo una issue.
+
+---
+
+<div align="center">
+
+**🙌 Gracias por visitar mi perfil**
+
+*Hecho con ❤️ en España*
+
+</div>
